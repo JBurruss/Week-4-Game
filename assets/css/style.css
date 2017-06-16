@@ -1,0 +1,86 @@
+body {
+	background-image: url(../images/lights.jpg);
+	background-size: cover;
+
+}
+
+@font-face {
+	font-family: Passion One', cursive;
+	
+}
+
+h1 {
+	font-family: 'Passion One', cursive;
+	float: left;
+	color: #ffffff;
+	font-size: 50px;
+	margin: 20px;
+	line-height: 150%;
+	opacity: 0.8;
+}
+
+h2 {
+	font-family: 'Passion One', cursive;
+	color: #00001a;
+	font-size: 50px;
+}
+
+.heroes {
+	width: 95px;
+	height: 50px;
+}
+
+.character {
+	border-style: solid;
+	border-color: black;
+	background-color: #FFFBDE;
+	font-family: serif;
+}
+
+.hero {
+	background-color: #FFF880;
+}
+
+.fighting {
+	background-color: #FF534F;
+}
+
+#picking {
+	opacity: 0.9;	
+	width: 550px;
+	height: 275px;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.theCenter {
+	/*margin: 0 auto;
+	padding: 30px;*/
+}
+
+#attack {
+	font-family: 'Passion One', cursive;
+	font-size: 24px;
+}
+
+#restart {
+	font-family: 'Passion One', cursive;
+	font-size: 24px;
+}
+
+#whathappens {
+	background-color: #99b4c7;
+	font-family: sans-serif;
+}
+
+#winsloses {
+	opacity: 0.7;
+	font-family: 'Passion One', cursive;
+	font-size: 50px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+	color: #ffffff;
+	/*padding: 20px;*/
+
+}
