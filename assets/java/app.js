@@ -3,7 +3,8 @@ $(document).ready(function() {
     var wins = 0;
     var loses = 0;
 
-    function varSet() { //Sets all of the variable values
+//Variables
+    function varSet() { 
         myChar;
         opponentChar;
 
